@@ -1,0 +1,10 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    color: black;
+    background: linear-gradient(#e5edf3,white);
+    border-top: 1px solid mediumturquoise;
+    font-family: 'Linux Libertine';
+}

@@ -1,0 +1,39 @@
+.container-fluid {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #F8FCFF;
+}
+
+.front-page {
+    height: 60vh;
+    width: 50vw;
+    background-repeat: no-repeat;
+    background-position: center;
+    object-fit: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    height: 100%;
+    width: 100%;  
+} 
+
+.buttons {
+    height: 20vh;
+    display: flex;
+    justify-content: center;  
+    font-family: "Linux Libertine";
+}
+
+.btn {
+    height: 40px;
+    width: 150px;
+    border: 2px solid mediumturquoise;
+    font-weight: bold;
+    margin: 10px;
+    font-size: large;
+}

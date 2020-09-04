@@ -1,0 +1,50 @@
+<app-header></app-header>
+<!--Body-->
+<div class="container-fluid" style="background: #F8FCFF;">
+    <div class=" main-body">
+        <div class="row  form-body">
+            <div class="col-12 col-md-6 ">
+                <u>
+                    <h4>WikipediA</h4>
+                </u>
+                <img src="assets/logo.png" alt="logo">
+            </div>
+            <div class="col-12 col-md-6">
+                <u>
+                    <h4>Register</h4>
+                </u>
+
+                <div class="form" [formGroup]="myFormGroup">
+                    <div class="mt-2 form-group">
+                        <label>First Name:</label>
+                        <input class="form-control " type="text" placeholder="First Name" id="fname"
+                            formControlName="fname">
+                    </div>
+                    <div class="mt-2 form-group">
+                        <label>Last Name:</label>
+                        <input class="form-control" type="text" placeholder="Last Name" id="lname"
+                            formControlName="lname">
+                    </div>
+                    <div class="mt-2 form-group">
+                        <label>Email Address:</label>
+                        <input class="form-control" type="text" placeholder="Email" id="email" formControlName="email">
+                    </div>
+                    <div class="mt-2 form-group">
+                        <label>Password:</label>
+                        <input class="form-control" type="password" placeholder="Password e.g. qwerty@123" id="password"
+                            formControlName="password">
+                    </div>
+                    <div class="mt-2">
+                        <button type="submit" class="btn btn-outline-primary btn-block" (click)="registerHere()"
+                            [disabled]="!myFormGroup.valid">Register</button>
+                    </div>
+                    <div class="mt-2">
+                        <a routerLink="/login">Login Here</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--Footer-->
+<app-footer></app-footer>

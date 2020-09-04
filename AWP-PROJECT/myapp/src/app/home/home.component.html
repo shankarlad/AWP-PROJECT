@@ -1,0 +1,18 @@
+<div class="container-fluid">
+    <div class="row sticky-top header">
+        <div class="h-name col-6">WikipediA</div>
+        <div class="h-name col-6 d-flex justify-content-end">
+            <a class="btn btn-outline-primary btn-sm" routerLink="/home/">Search</a>
+            <a class="btn btn-outline-primary btn-sm" routerLink="/home/profile">Profile</a>
+            <a class="btn btn-outline-primary btn-sm" (click)="processLogout()">Log Out</a>
+        </div>
+    </div>
+</div>
+
+<router-outlet></router-outlet>
+
+<div class="container-fluid">
+    <div class="row footer">
+        <div>by WikipediA</div>
+    </div>
+</div>

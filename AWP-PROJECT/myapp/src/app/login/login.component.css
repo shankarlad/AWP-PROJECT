@@ -1,0 +1,28 @@
+.main-body {
+    height: 120vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    height: 80%;
+    width: 100%;
+}
+
+h4 {
+    font-family: 'Linux Libertine';
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.fm-data {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+label{
+    font-family: 'Linux Libertine';
+}

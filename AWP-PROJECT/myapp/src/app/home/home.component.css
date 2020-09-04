@@ -1,0 +1,37 @@
+.row {
+    height: 10vh;
+}
+html,body {
+    background:#F8FCFF;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    color: black;
+    background: linear-gradient(white,#e5edf3);
+    border-bottom: 1px solid mediumturquoise;
+}
+
+.h-name {
+    font-size: 25px; 
+    font-weight: bold; 
+    font-family: 'Linux Libertine';
+}
+
+.btn {
+    margin: 5px;
+    font-family: 'Linux Libertine';
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    color: black;
+    background: linear-gradient(#e5edf3,white);
+    border-top: 1px solid mediumturquoise;
+    font-family: 'Linux Libertine';
+}

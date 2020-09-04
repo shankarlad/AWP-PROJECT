@@ -1,0 +1,18 @@
+.img-box {
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    object-fit: cover;
+    margin-top: 5px;
+}
+img {
+    height: 100%;
+    width: 100%;
+    border: 2px solid mediumturquoise;
+}
+
+.name {
+    font-size: large;
+    font-weight: bold;
+    font=font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}

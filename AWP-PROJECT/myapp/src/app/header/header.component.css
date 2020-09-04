@@ -1,0 +1,19 @@
+
+html,body {
+    background:#F8FCFF;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    color: black;
+    background: linear-gradient(white,#e5edf3);
+    border-bottom: 1px solid mediumturquoise;
+}
+
+.h-name {
+    font-size: 25px; 
+    font-weight: bold; 
+    font-family: 'Linux Libertine';
+}
