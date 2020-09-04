@@ -1,24 +1,24 @@
 # AWP-PROJECT
 awp project
--APW project submitted.
+APW project submitted.
 
 
 ### Project Title
 #### Wikipedia Search Project
 
-- Faculty Incharge 
--- Vipul Sir
+#### Faculty Incharge 
+- Vipul Sir
 
-- Team Number
- --- ### 4
+#### Team Number
+- 4
 
-- Team Members
- -- Shankar Lad (200240320104)
- -- Subham Singh (200240320123)
+#### Team Member
+- Shankar Lad (200240320104)
+- Subham Singh (200240320123)
 
-- Git Hub Link
--- https://github.com/shankarlad/AWP-PROJECT.git
+#### Git Hub Link
+- https://github.com/shankarlad/AWP-PROJECT.git
 
-- Timestamp of Git Commit of Project Data
-#### 01:07 AM 05/09/2020
+#### Timestamp of Git Commit of Project Data
+-01:07 AM 05/09/2020
 
