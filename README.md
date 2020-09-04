@@ -10,11 +10,11 @@ awp project
 -- Vipul Sir
 
 - Team Number
-### 4
+ --- ### 4
 
 - Team Members
--- Shankar Lad (200240320104)
--- Subham Singh (200240320123)
+ -- Shankar Lad (200240320104)
+ -- Subham Singh (200240320123)
 
 - Git Hub Link
 -- https://github.com/shankarlad/AWP-PROJECT.git
