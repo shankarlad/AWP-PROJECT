@@ -1,6 +1,6 @@
 # AWP-PROJECT
 awp project
-APW project submitted.
+- APW project submitted.
 
 
 ### Project Title
@@ -20,5 +20,5 @@ APW project submitted.
 - https://github.com/shankarlad/AWP-PROJECT.git
 
 #### Timestamp of Git Commit of Project Data
--01:07 AM 05/09/2020
+- 01:07 AM 05/09/2020
 
